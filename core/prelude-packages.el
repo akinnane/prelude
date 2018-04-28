@@ -87,7 +87,7 @@
     undo-tree
     volatile-highlights
     which-key
-    zenburn-theme
+    monokai-theme
     zop-to-char)
   "A list of packages to ensure are installed at launch.")
 
